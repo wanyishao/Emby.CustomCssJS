@@ -10,7 +10,7 @@
   - [Telegram频道](https://t.me/embycustomcssjs)
   - 弹幕相关插件暂时无法通过JavaScript及Css添加
 
-# **使用说明**
+## **使用说明**
   ### EMBY（Docker服务器端）安装方法
 - 本方案仅`emby/embyserver:beta`镜像测试有效，其他镜像请自行测试
 - root账户登录ssh，输入以下指令一键安装
@@ -54,19 +54,19 @@ wget -O script.sh --no-check-certificate https://raw.githubusercontent.com/Shure
       ```
 ***
 
-# 管理员页面：
+## 管理员页面：
   - 为所有用户提供脚本，用户可以选择使用（强制开启的强制使用）
 
   ![photo_2023-05-14_21-45-18](https://github.com/Shurelol/Emby.CustomCssJS/assets/16237201/b3890993-e5e7-497f-915c-8df75c53f64a)
   
 
-# 用户页面：
+## 用户页面：
   - 管理员提供的脚本可以选择使用
   - 用户可自行添加脚本（储存在localStorage）
   
   ![photo_2023-05-14_21-45-22](https://github.com/Shurelol/Emby.CustomCssJS/assets/16237201/25309616-bfa1-464c-94a8-e29e500d5278)
 
-# 控制台中可查看脚本加载情况
+## 控制台中可查看脚本加载情况
 
   ![image](https://github.com/Shurelol/Emby.CustomCssJS/assets/16237201/7874ebc0-806a-4d08-b3f3-d4b46809c5d7)
   
